@@ -1,5 +1,4 @@
-# TeamProject_Acorn
-> Final Team Project at Acorn :v:
+# TeamProject_Intranet_banapresso
 
 ## Intranet System
 ### 개요
